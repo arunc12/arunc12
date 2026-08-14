@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+MYSQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 <br>
