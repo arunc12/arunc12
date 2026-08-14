@@ -1,14 +1,15 @@
-<!-- BANNER: full-width coloured header strip (this is your "background colour") -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:117A65&height=200&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=62" width="100%"/>
 </p>
 
-<!-- Animated typing header with LARGER font (size=28) -->
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-<!-- Skill badges (large, for-the-badge style) -->
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -29,11 +30,21 @@ Aspiring **Data Analyst** passionate about turning raw data into clear, actionab
 
 ---
 
-### 🖼️ Featured Dashboard
+## 🌟 Featured Project — India GST Revenue Analysis
 
-<!-- REPLACE the link below with a real screenshot of your best Power BI dashboard -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arunc12/Mini-Project-Supplement-Sales-Analysis-In-Power-BI/main/dashboard.png" width="80%" alt="Supplement Sales Dashboard"/>
+  <img src="https://raw.githubusercontent.com/arunc12/India-GST-Revenue-Analysis/main/gst_animation.gif" width="85%" alt="India GST Revenue Animated Chart"/>
+</p>
+
+<p align="center">
+  <b>End-to-end analysis of India's GST collections (2017–2026) across 36 states & UTs</b><br>
+  <i>EDA · Forecasting · Interactive Dashboards · Real Government Data</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arunc12/India-GST-Revenue-Analysis">
+    <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -48,7 +59,7 @@ Aspiring **Data Analyst** passionate about turning raw data into clear, actionab
 
 ---
 
-### 📊 Featured Projects
+### 📊 All Projects
 
 | Project | What it does | Tools |
 |---|---|---|
@@ -72,7 +83,6 @@ Aspiring **Data Analyst** passionate about turning raw data into clear, actionab
   </a>
 </p>
 
-<!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117A65,100:2E86C1&height=100&section=footer"/>
 </p>
