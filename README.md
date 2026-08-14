@@ -1,24 +1,37 @@
-# Hi, I'm Arun 👋
+<h1 align="center">Hi 👋, I'm Arun C</h1>
+<h3 align="center">Data Analyst | Turning Data into Insights</h3>
 
-### Data Analyst | Turning Data into Insights
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-Data Analyst passionate about turning raw data into clear, actionable insights.
-I work across the full analytics workflow — from cleaning messy datasets to building
-interactive dashboards. Skilled in Python, SQL, Power BI, and Excel, I love digging
-into data through EDA and visualization to drive smart, data-backed business decisions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
-### 🔧 Tools & Skills
+### 🧑‍💻 About Me
 
-- **Languages:** Python, SQL
-- **BI & Visualization:** Power BI, Excel
-- **Core Strengths:** Data Cleaning, EDA, Data Visualization, Dashboarding
+Data Analyst passionate about turning raw data into clear, actionable insights. I work across the full analytics workflow — from cleaning messy datasets to building interactive dashboards that drive smart, data-backed business decisions.
+
+- 🔭 Working on end-to-end analytics projects on real-world data
+- 🌱 Continuously sharpening my skills in **Python, SQL & Power BI**
+- 💬 Ask me about **data cleaning, EDA, dashboards & data storytelling**
+- 📫 Reach me: **arunchinnasamy3@gmail.com**
+
+---
+
+### 🛠️ Tools & Skills
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **BI & Visualization** | Power BI, Excel |
+| **Core Strengths** | Data Cleaning, EDA, Data Visualization, Dashboarding |
 
 ---
 
@@ -35,11 +48,15 @@ into data through EDA and visualization to drive smart, data-backed business dec
 
 ---
 
-### 📫 Reach Me
+### 🤝 Connect with Me
 
-- 📧 arunchinnasamy3@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arun-c--/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun-c--/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arunchinnasamy3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
----
-
-*Open to Data Analyst opportunities — let's connect!*
+<p align="center"><i>Open to Data Analyst opportunities — let's connect!</i></p>
