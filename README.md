@@ -36,12 +36,9 @@ into data through EDA and visualization to drive smart, data-backed business dec
 ---
 
 ### 📈 GitHub Stats
-
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunc12&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunc12&layout=compact&theme=default)
-
----
 
 ### 📫 Reach Me
 
