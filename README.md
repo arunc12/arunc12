@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:117A65&height=200&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:117A65&height=280&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&textAlignY=40&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=75" width="100%"/>
 </p>
 
 <br>
