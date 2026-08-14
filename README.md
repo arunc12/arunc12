@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
@@ -23,7 +23,7 @@
 Aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights. I work across the full analytics workflow — from cleaning messy datasets to building interactive dashboards that drive smart, data-backed business decisions.
 
 - 🔭 Building end-to-end analytics projects on real-world data
-- 🌱 Sharpening my skills in **Python, SQL & Power BI**
+- 🌱 Sharpening my skills in **Python, MYSQL & Power BI**
 - 💬 Ask me about **data cleaning, EDA, dashboards & data storytelling**
 - 📫 Reach me: **arunchinnasamy3@gmail.com**
 
