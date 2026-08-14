@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arun C</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights</h3>
-
+<!-- BANNER: full-width coloured header strip (this is your "background colour") -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:117A65&height=200&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=62" width="100%"/>
 </p>
 
+<!-- Animated typing header with LARGER font (size=28) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
+
+<!-- Skill badges (large, for-the-badge style) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -16,12 +20,21 @@
 
 ### 🧑‍💻 About Me
 
-Data Analyst passionate about turning raw data into clear, actionable insights. I work across the full analytics workflow — from cleaning messy datasets to building interactive dashboards that drive smart, data-backed business decisions.
+Aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights. I work across the full analytics workflow — from cleaning messy datasets to building interactive dashboards that drive smart, data-backed business decisions.
 
-- 🔭 Working on end-to-end analytics projects on real-world data
-- 🌱 Continuously sharpening my skills in **Python, SQL & Power BI**
+- 🔭 Building end-to-end analytics projects on real-world data
+- 🌱 Sharpening my skills in **Python, SQL & Power BI**
 - 💬 Ask me about **data cleaning, EDA, dashboards & data storytelling**
 - 📫 Reach me: **arunchinnasamy3@gmail.com**
+
+---
+
+### 🖼️ Featured Dashboard
+
+<!-- REPLACE the link below with a real screenshot of your best Power BI dashboard -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arunc12/Mini-Project-Supplement-Sales-Analysis-In-Power-BI/main/dashboard.png" width="80%" alt="Supplement Sales Dashboard"/>
+</p>
 
 ---
 
@@ -59,4 +72,7 @@ Data Analyst passionate about turning raw data into clear, actionable insights. 
   </a>
 </p>
 
-<p align="center"><i>Open to Data Analyst opportunities — let's connect!</i></p>
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117A65,100:2E86C1&height=100&section=footer"/>
+</p>
