@@ -2,6 +2,11 @@
 
 ### Data Analyst | Turning Data into Insights
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
 Data Analyst passionate about turning raw data into clear, actionable insights.
 I work across the full analytics workflow — from cleaning messy datasets to building
 interactive dashboards. Skilled in Python, SQL, Power BI, and Excel, I love digging
@@ -27,6 +32,14 @@ into data through EDA and visualization to drive smart, data-backed business dec
 | [HR Employee Attrition](https://github.com/arunc12/hr-analytics-employee-attrition-sql) | SQL analysis of employee attrition (423 employees) | MySQL |
 | [eLearning Purchase Analysis](https://github.com/arunc12/eLearning-Purchase-Analysis-MySQL) | Normalized 3-table schema analyzing platform purchases | MySQL |
 | [Premier League Investment](https://github.com/arunc12/Premier-League-Investment-Analysis) | 100-point scoring model shortlisting 40 clubs | Python, Power BI |
+
+---
+
+### 📈 GitHub Stats
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunc12&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunc12&layout=compact&theme=default)
 
 ---
 
