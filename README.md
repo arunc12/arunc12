@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:117A65&height=280&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&textAlignY=40&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=280&section=header&text=ARUN%20C&fontSize=60&fontColor=ffffff&textAlignY=40&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=75" width="100%"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+MySQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1A80D0&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+MySQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 <br>
@@ -77,5 +77,5 @@ Each project follows a full analytics workflow — from raw data to business rec
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117A65,100:2E86C1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=100&section=footer"/>
 </p>
